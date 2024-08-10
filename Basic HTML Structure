@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gopikrishna P G - Introduction</title>
+</head>
+<body>
+    <h1>GOPIKRISHNA P G</h1>
+    <p>Hello! I am Gopikrishna P G. I am passionate about web development and always eager to learn new things.I am always ready to seek a challenging role at an organisation to utilize my skillset that can contribute to the company’s growth 
+as well as enhance my knowledge along with being mentored towards a successful career.  Below are some of my hobbies:</p>
+    
+    <ul>
+        <li>Coding</li>
+        <li>Watching movies</li>
+        <li>Traveling</li>
+        <li>Cricket and Kabaddi Player</li>
+    </ul>
+    
+    <p>Check out my favorite website: <a href="https://www.apple.com/" target="_blank">Apple.com</a><br>
+    Because Apple focuses on high-resolution images, clear product descriptions, and engaging videos, all of which contribute to a superior user experience</p>
+</body>
+</html>
