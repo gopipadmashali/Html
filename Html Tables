@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weekly Schedule</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+
+        caption {
+            font-weight: bold;
+            margin-bottom: 10px;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+
+<table>
+    <caption>Weekly Schedule</caption>
+    <thead>
+        <tr>
+            <th>Time Slot</th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+            <th>Saturday</th>
+            <th>Sunday</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Morning</td>
+            <td>Exercise</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Yoga</td>
+            <td>Relax</td>
+        </tr>
+        <tr>
+            <td>Afternoon</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Work</td>
+            <td>Shopping</td>
+            <td>Family Time</td>
+        </tr>
+        <tr>
+            <td>Evening</td>
+            <td>Reading</td>
+            <td>Exercise</td>
+            <td>Reading</td>
+            <td>Exercise</td>
+            <td>Reading</td>
+            <td>Movie Night</td>
+            <td>Dinner Out</td>
+        </tr>
+    </tbody>
+</table>
+</body>
+</html>
